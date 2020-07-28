@@ -66,4 +66,5 @@
 +		return html;
  	},
  
+ 
  	clone: function( elem, dataAndEvents, deepDataAndEvents ) {
